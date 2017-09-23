@@ -43,7 +43,7 @@
   <li>Full fill time and memory complexity</li>
 </ul>
 
-<h2 id="shortestpath"><a href="https://github.com/soochangkim/algorithms/tree/master/ShortestPath"></a></h2>
+<h2 id="shortestpath"><a href="https://github.com/soochangkim/algorithms/tree/master/ShortestPath">Shortest Path</a></h2>
 <h4>Learning Purpose</h4>
 <ul>
   <li>Shortest Path</li>
