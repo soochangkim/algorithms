@@ -1,0 +1,12 @@
+G:\Algorithms\shortest_path\Project02\Project02\bin\Debug\Project02.exe.config
+G:\Algorithms\shortest_path\Project02\Project02\bin\Debug\Project02.exe
+G:\Algorithms\shortest_path\Project02\Project02\bin\Debug\Project02.pdb
+G:\Algorithms\shortest_path\Project02\Project02\obj\Debug\Project02.csprojResolveAssemblyReference.cache
+G:\Algorithms\shortest_path\Project02\Project02\obj\Debug\Project02.exe
+G:\Algorithms\shortest_path\Project02\Project02\obj\Debug\Project02.pdb
+G:\Temp\Algorithms\Algorithms\shortest_path\Project02\Project02\bin\Debug\Project02.exe.config
+G:\Temp\Algorithms\Algorithms\shortest_path\Project02\Project02\bin\Debug\Project02.exe
+G:\Temp\Algorithms\Algorithms\shortest_path\Project02\Project02\bin\Debug\Project02.pdb
+G:\Temp\Algorithms\Algorithms\shortest_path\Project02\Project02\obj\Debug\Project02.csprojResolveAssemblyReference.cache
+G:\Temp\Algorithms\Algorithms\shortest_path\Project02\Project02\obj\Debug\Project02.exe
+G:\Temp\Algorithms\Algorithms\shortest_path\Project02\Project02\obj\Debug\Project02.pdb
