@@ -1,5 +1,4 @@
-# algorithms
-<h1>Algorithms and Data Structure</h1>
+# Algorithms and Data Structure
 
 <h4>List of Study<h4>
 <ul>
